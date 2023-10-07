@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <copy file="../dubbo-admin-server/target/dubbo-admin-server-0.6.0.jar" tofile="target/dubbo-admin-0.6.0.jar"/>
+  <copy file="../dubbo-admin-server/target/classes/application.properties" tofile="src/bin/config/application.properties"/>
+</target>
+</project>

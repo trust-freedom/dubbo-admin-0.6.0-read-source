@@ -1,0 +1,9 @@
+org/apache/dubbo/admin/api/GreetingService.class
+org/apache/dubbo/admin/impl/consumer/RestApiService$CommonResult.class
+org/apache/dubbo/admin/impl/consumer/RestApiService.class
+org/apache/dubbo/admin/impl/provider/AnnotatedGreetingService.class
+org/apache/dubbo/admin/ProviderBootstrap$ProviderConfiguration.class
+org/apache/dubbo/admin/impl/consumer/AnnotatedGreetingService.class
+org/apache/dubbo/admin/ConsumerBootstrap$ConsumerConfiguration.class
+org/apache/dubbo/admin/ConsumerBootstrap.class
+org/apache/dubbo/admin/ProviderBootstrap.class

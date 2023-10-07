@@ -1,0 +1,10 @@
+org/apache/dubbo/admin/ManageIT.class
+org/apache/dubbo/admin/pages/ServicePage.class
+org/apache/dubbo/admin/pages/ManagePage.class
+org/apache/dubbo/admin/ServiceIT.class
+org/apache/dubbo/admin/pages/BasePage.class
+org/apache/dubbo/admin/BaseIT.class
+org/apache/dubbo/admin/LoginIT.class
+org/apache/dubbo/admin/pages/LoginPage.class
+org/apache/dubbo/admin/MetricIT.class
+org/apache/dubbo/admin/pages/MetricRelationPage.class
